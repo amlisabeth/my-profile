@@ -1,16 +1,16 @@
-#_{my-profile}_
+# my-profile
 
-####_{A webpage profile of Adam Lisabeth}, {1/27/19}
+#### A webpage profile for Adam Lisabeth, 1/27/19
 
-#### By_{Adam Lisabeth}
+#### By Adam Lisabeth
 
 ## Description
- _{This is a basic webpage that offers some information about Adam Lisabeth and his recent projects.}
+ This is a basic webpage that offers some information about Adam Lisabeth and his recent projects.
 
- ## Setup Instructions
-_{Use git clone to download file onto your computer}
+## Setup Instructions
+Use git clone to download file onto your computer
 
 ## Link on GitHub page
-{www.adamlisabeth.com}
+www.adamlisabeth.com
 
-Copyright (c) 2019 **_{Adam Lisabeth}_**
+Copyright (c) 2019 **Adam Lisabeth**
